@@ -1,0 +1,6 @@
+c:\users\my\documents\visual studio 2015\Projects\FirstSample\ValueTypes\bin\Debug\ValueTypes.exe.config
+c:\users\my\documents\visual studio 2015\Projects\FirstSample\ValueTypes\bin\Debug\ValueTypes.exe
+c:\users\my\documents\visual studio 2015\Projects\FirstSample\ValueTypes\bin\Debug\ValueTypes.pdb
+c:\users\my\documents\visual studio 2015\Projects\FirstSample\ValueTypes\obj\Debug\ValueTypes.csprojResolveAssemblyReference.cache
+c:\users\my\documents\visual studio 2015\Projects\FirstSample\ValueTypes\obj\Debug\ValueTypes.exe
+c:\users\my\documents\visual studio 2015\Projects\FirstSample\ValueTypes\obj\Debug\ValueTypes.pdb
