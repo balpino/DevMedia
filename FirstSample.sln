@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing", "Boxing\Boxing.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{0EEBB020-59FE-476A-96A3-505D69DF4B7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{D163C329-113F-4777-9476-4C48AEBC4A42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0EEBB020-59FE-476A-96A3-505D69DF4B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EEBB020-59FE-476A-96A3-505D69DF4B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EEBB020-59FE-476A-96A3-505D69DF4B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D163C329-113F-4777-9476-4C48AEBC4A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D163C329-113F-4777-9476-4C48AEBC4A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D163C329-113F-4777-9476-4C48AEBC4A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D163C329-113F-4777-9476-4C48AEBC4A42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
